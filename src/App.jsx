@@ -22,7 +22,7 @@ const App = () => {
   }
   return (<>
     <div className="main-container">
-      <h1 className="heading">Speech to Text Converter</h1>
+      <h1 className="heading">Speech to text Converter</h1>
       <div className="main-div">
         <p>{transcript}</p>
       </div>
